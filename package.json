@@ -1,0 +1,21 @@
+{
+  "name": "csv_to_josn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csvtoJSON.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "convert-csv-to-json": "^2.0.0",
+    "csv": "^6.0.0",
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "replaceall": "^0.1.6",
+    "split": "^1.0.1"
+  }
+}
